@@ -1,10 +1,18 @@
 header {
     text-align: center;
     background-color: #0015ff;
-    color :#000000
+    color :#ffffff
 }
 
 #costumfooter {
     text-align: center;
-    background-color: #000000;
+    background-color: #0033ff;
+    color:#000000
+}
+#first{
+    color:#2bffb1;
+}
+
+.second {
+    color: rgb(234, 29, 29);
 }
